@@ -1,0 +1,33 @@
+{
+    "salons": [
+        {
+            "id": "4a832c92-2486-4407-b338-aab2b26c0894",
+            "name": "Nova alpha salon",
+            "location": "3051 Lucky Duck Drive, Pittsburgh, Pennsylvania",
+            "phone": "4128623526",
+            "open_time": 10.00,
+            "close_time": 22.00
+        },
+        {
+            "id": "cc38f4e5-f351-435b-a764-165482942457",
+            "name": "Nova beta salon",
+            "location": "214 Whitetail Lane, Richardson, Texas",
+            "open_time": 10.30,
+            "close_time": 20.30
+        },
+        {
+            "id": "649a9243-c110-4420-8057-923e9055fc9a",
+            "name": "Nova gamma salon",
+            "location": "4998 Yorkie Lane, Ellabelle, Georgia",
+            "open_time": 8.00,
+            "close_time": 14.00
+        },
+        {
+            "id": "0c38e395-5cfc-4be5-a922-9676eac0c267",
+            "name": "yet another name",
+            "location": "3300 Main Street, Bothell, Washington",
+            "open_time": 11.00,
+            "close_time": 16.00
+        }
+    ]
+}
